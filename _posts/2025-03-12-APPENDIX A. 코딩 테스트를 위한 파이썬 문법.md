@@ -187,7 +187,7 @@ print(data)
 ### 논리 연산자
 ### 파이썬의 기타 연산자
 
-![alt text](/assets/img_20250312/mage-2.png)
+![alt text](/assets/img_20250312/image-2.png)
 
 ### pass
 
