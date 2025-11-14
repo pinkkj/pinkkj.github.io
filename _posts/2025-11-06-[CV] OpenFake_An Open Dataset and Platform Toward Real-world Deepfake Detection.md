@@ -84,7 +84,8 @@ Section C에 제시된 프롬프트 기준에 따라, 이미지가 다음 두 �
 ### 합성 이미지 (Synthetic Images)
 - 생성 모델 목록:
 OPENFAKE는 아래의 다양한 최신 모델들을 사용해 합성 이미지를 생성하였다.
-```
+
+```text
 Stable Diffusion 1.5 / 2.1 / XL / 3.5  
 Flux 1.0-dev / 1.1-Pro / Schnell  
 Midjourney v6 / v7  
@@ -98,6 +99,7 @@ Recraft v3
 Chroma  
 + Stable Diffusion, Flux의 LoRA·파인튜닝 버전 10종 (커뮤니티 제공)
 ```
+
 - 생성 조건:
     - 모두 약 1메가픽셀(1MP) 수준의 해상도
     - 다양한 비율(9:16, 16:9, 1:1, 2:3, 3:4 등)
